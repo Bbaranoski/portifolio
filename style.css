@@ -39,6 +39,10 @@ main {
 .sobre {
     padding: 36px 10vw;
 }
+
+img {
+  padding: 2rem;
+}
 /* Responsividade */
 @media (max-width: 600px) {
   nav ul {
